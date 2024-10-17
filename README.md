@@ -1,2 +1,2 @@
 # Game_JS
- Jogo feito inteiramente com JavaScript, e utlizando HTML E CSS
+ Jogo feito com JavaScript, e utlizando HTML E CSS
